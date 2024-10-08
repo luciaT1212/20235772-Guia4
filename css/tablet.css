@@ -1,0 +1,22 @@
+#encabezado {
+    margin: 0px auto;
+    width: 90%;
+}
+
+#imgDesc img {
+    width: 100%;
+    height: auto;
+    float: none;
+}
+
+#descripcion {
+    width: 100%;
+}
+
+#descripcion p {
+    margin: 20px 0px 10px 0px;
+    color: white;
+    line-height: 140%;
+    text-align: justify;
+    font-size: 1em;
+}
